@@ -1,39 +1,51 @@
-baseURL = "https://ykawamura96.github.io"
+baseURL = "https://ykawamura96.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yoichiro's personal page"
+# theme = "coder-portfolio"
 # theme = "devise"
-theme ="pulp"
+# theme ="pulp"
 # theme = "introduction"
+# theme = "khata"
+# theme = "monopriv"
+theme = "hugo-theme-nix"
 
 
 # Main menu items
 [menu]
-  [[menu.main]]
+  [[menu.header]]
     identifier = "about"
     name = "about"
-    title = "about"
-    url = "/about/"
+    title = "about"  
+    url = "/about/about/"
     weight = -110
-  [[menu.main]]
+  [[menu.header]]
     identifier = "projects"
     name = "projects"
-    title = "projects"
-    url = "/projects/"
+    url = "/projects/projects"
     weight = -100
-  [[menu.main]]
+  [[menu.header]]
     identifier = "others"
     name = "others"
     title = "others"
-    url = "/others/"
+    url = "/others/others"
     weight = -90
 
 # Configuration Features
 [params]
+  Name = "Yoichiro Kawamura"
+  HeaderUsername = "ykawamura96"
+  HeaderHostname = "github.io"
+  About = "Viva robotics! I enjoy robotics ! I am researching on humanoid robot at JSK Robotics Laboratry."
+  ProfilePicture = "/img/tmp_myself.png"
+  Favicon = "/img/robot.ico"
+  GithubID = "ykawamura96"
+  TwitterID = "y__kawamura/"
+  FacebookID = "yoichiro.kawamura.54/"
+  Email =  "mailto:y-kawamura@jsk.imi.i.u-tokyo.ac.jp"
   header_title = "Yoichiro Kawamura"                 # Your header title
   header_subtitle = "Welcome to my web site!" # Your header subtitle
   author = "Yoichiro Kawamura"
-  favicon = "robot.ico"   
-  avatar = "avatar.jpg"
+  # avatar = "/avatar.jpg"
   description = """
   Viva Robotics! 
   """
@@ -46,7 +58,7 @@ theme ="pulp"
   mainSections = ["about", "projects", "othres"]   # Main sections to include in recent posts
   [[params.social]]
     fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
-    href = "https://github.com/ykawamura96"      # Link to associate with icon (http://, https://, mailto:)
+    href = "https://github.com/ykawamura96"
   [[params.social]]
     fa_icon = "fab fa-facebook fa-1x"
     href = "https://www.facebook.com/yoichiro.kawamura.54/"
@@ -62,3 +74,5 @@ theme ="pulp"
   defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
   unsafe = true
+# [params.footer]   
+#   copyright = ""

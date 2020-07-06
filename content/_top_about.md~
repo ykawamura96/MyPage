@@ -58,7 +58,7 @@ I enjoy **robotics** ! I am researching on humanoid robot at [JSK Robotics Labor
 ### 奨学金
 1. [トヨタド・ワンゴ高度人工知能人材奨学金](https://www.u-tokyo.ac.jp/ja/students/welfare/h02_19.html) (06/2020 -)
 
-### 受賞
+### 活動, 受賞
 1. NHK学生ロボコン2019にてベスト4, 技術賞を受賞、部長として参加
 1. RoboTech基金を設立,2019/04, 開始1年で500万円以上の資金を集める
 1. 小学生ロボコン プレ大会(2018冬)審査員
@@ -74,20 +74,22 @@ I enjoy **robotics** ! I am researching on humanoid robot at [JSK Robotics Labor
 
 
 ##  Publications
-1. <u>Y. Kawamura</u>., M. Murooka, N. Hiraoka, H. Ito, K. Okada and M. Inaba.  Learning of Tool Force Adjustment Skills by a Life-sized Humanoid using Deep Reinforcement Learning and Active Teaching Request, in Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (***IROS2020***)
-
+### International Conference Proceedings (Peer Reviewed)
+1. **<u>Y. Kawamura</u>**., M. Murooka, N. Hiraoka, H. Ito, K. Okada and M. Inaba.  Learning of Tool Force Adjustment Skills by a Life-sized Humanoid using Deep Reinforcement Learning and Active Teaching Request, in Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (***IROS2020***)
+### Domestic Conference Proceedings (No Reviewed)
+1. **<u>河村洋一郎</u>**, 室岡雅樹, 平岡直樹, 伊藤秀朗, 岡田慧, 稲葉雅幸, 等身大ヒューマノイドによる強化学習と能動的教示要請を組み合わせたのこぎりとかんな技能の獲得,  日本機械学会ロボティクス・メカトロニクス講演会'20 講演論文集 (ROBOMECH20J), 2A2-G12, 2020
 ## Skills
-- Design
+- Design (デザイン)
   - SolidWorks, Inventor, Cut2D, Photoshop
-- Programming Language
+- Programming Language (プログラミング言語)
   - Python, C, C++, Euslisp
-- Frameworks
+- Frameworks (OS/ミドルウェア)
   - Linux, Git, ROS
-- Embeded System
+- Embeded System (組み込み)
   - PIC, AVR
-- Manufacturing
+- Manufacturing (加工)
   - CNC Machining, Laser Cutting, 3D printing, Milling Machine, Lathe
-- Others
+- Others (その他)
   - Soldering, Origami, Rubic’s Cube
 
 ## 所属・連絡先
