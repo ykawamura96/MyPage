@@ -8,7 +8,7 @@ weight: 0
  <div style="text-align: left;">
   Abstract— The purpose of this study is to make life-sized humanoid robots acquire tool manipulation skills that require complicated force adjustment. The difficulty in acquisition of tool manipulation skills comes from the hardship in physical
 modeling. Recent research has revealed that deep reinforcement learning (DRL), a model-free approach, performs superior in such tasks. However, DRL in general has a drawback in sample efficiency, and this becomes critical in robot learning especially in life-sized humanoid robots. In this study, we propose an integrated system incorporating DRL method and active learn-ing. Our method also leverages a variety of previous studies on life-sized humanoid robots to overcome the sample efficiency
-issue. 
+issue.
 
   We demonstrated the effectiveness of our proposed system through a hacksaw skill acquisition and a Japanese planer (Kanna) skill acquisition by a life-sized humanoid robot.
  </div>
